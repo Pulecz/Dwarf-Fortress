@@ -11,6 +11,7 @@ version 0.1
 author: Pulec (pulec@upal.se)
 """
 #TODO better logging using logging module?
+#TODO ignore bak files in get_manifests func
 
 from os import getenv, walk # for getting linux home and scanning through folder
 from os import close, remove # for closing tempfile.mkstemp() and removing files
