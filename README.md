@@ -12,7 +12,7 @@ Generate a world and export all using DFHack's **exportlegends all**
 Browse your generated world in
 * Legends Viewer (for Windows, requires .NET)
 * Legend Browser (Java, meh)
-* World Viewer (no idea)
+* World Viewer (Windows and no idea)
 
 ###Pick your location
 How? Read this and that or chapter XX in book for more #TODO
@@ -24,5 +24,8 @@ Pick *safe* location using info from Legends, use search and pick your needs
 Embark either carefully manually or pick one of the LNP profiles.
 Manually? Read this and that or chapter XX in book for more #TODO
 
-##Start
+###Start
 * Destroy your wagon, you won't need it
+
+###Another tools
+* Be careful with Dwarf Portratit and fetching info, it can crash game.
